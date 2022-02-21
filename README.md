@@ -20,7 +20,7 @@ Variables in the set: <br >
 
 
 ## Technologies
-The project was written in R programming language.  RStudio 2021.09.0  was used.
+The project was written in R programming language.  RStudio 2021.09.0  was used. <br >
 Libraries used: 
 - tidyverse (to change the value of variables)
 - countrycode (for the grouping of countries)

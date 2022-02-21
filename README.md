@@ -2,7 +2,7 @@
 ## Introduction
 In this project, I created a linear regression model for a data set called adult. The data comes from the website http://archive.ics.uci.edu/ml/datasets/Adult. The model was to predict a person's income (under 50k per year or over 50k per year). 
 
-Variables in the set:
+Variables in the set: <br >
 **age**: continuous. <br >
 **workclass**: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked. <br >
 **fnlwgt**: continuous. <br >
